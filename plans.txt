@@ -1,0 +1,2 @@
+In a future version there will be a database added to the To-Do List web app. 
+For now it is without one. It is planned to add more features to it too.
